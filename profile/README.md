@@ -1,12 +1,10 @@
 <p align="center"
-	<a href="#"><img src="" alt="Lumine logo" title="Lumine" loading="eager" width="50%" height="50%"/>
+	<a href="#"><img src="https://github.com/DeathMoonBedrock/.github/blob/main/IMG_2195.png" alt="DeathMoon Logo" title="DeathMoon" loading="eager" width="50%" height="50%"/>
 	</a><br>
-	<b>Luminia - Сервер Minecraft Bedrock</b>
+	<b>DeathMoon - Сервер Minecraft Bedrock Edition</b>
 </p>
 
-
-> [!NOTE]
-> У нас есть Discord сервер: https://discord.gg/PHJZYYawVV
+## Наш сервер Дискорд 👇🏻
 <a href="https://discord.gg/PHJZYYawVV">
 	<img src="https://github.com/LuminiaBedrock/.github/blob/main/assets/discord.png" alt="Discord" title="Discord" loading="eager" width="45%" height="40%"/>
  </a>
