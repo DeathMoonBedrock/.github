@@ -5,7 +5,7 @@
 </p>
 
 ## Наш сервер Дискорд 👇🏻
-<a href="https://discord.gg/PHJZYYawVV">
-	<img src="https://github.com/DeathMoonBedrock/.github/blob/main/IMG_2425.png" alt="Discord" title="Discord" loading="eager" width="45%" height="40%"/>
+<a href="https://discord.gg/Ef5ZyV7WR9">
+	<img src="https://github.com/DeathMoonBedrock/.github/blob/main/IMG_2429.png" alt="Discord" title="Discord" loading="eager" width="45%" height="40%"/>
  </a>
  
